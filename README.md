@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hey there 👋
+
+🔭 I’m currently working on HangZhou.
+
+🌱 I’m currently learning RN, React, Webpack...
+
+## My Expertise:
+- JavaScript
+- CSS
+- React
+- Html
+- ...
+
 
 <!--
 **pxCheney/pxCheney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
